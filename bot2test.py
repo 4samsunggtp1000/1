@@ -10,7 +10,7 @@ token = '7357460650:AAF-jPWZzVVFggQI0d-cRjNQq7QHPCL-eTY'
 bot = telebot.TeleBot(token)
 
 # Путь к вашей картинке
-image_path = r"C:\pythonProject2\100055355046b0.webp"
+image_path = r"https://steamuserimages-a.akamaihd.net/ugc/2541800915823277767/E12BE5707C66A041CB423E6A8A02F36132E0C8E7/?imw=512&amp;imh=511&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
 
 # Список слов (все слова используют одну и ту же картинку)
 words = ["Яблоко", "Солнце", "Книга", "Океан", "Гитара", "Радость", "Город", "Звезда", "Ветер", "Мечта"]
